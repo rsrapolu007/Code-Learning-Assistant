@@ -1,6 +1,3 @@
-Sure! Here's a **detailed overview** of **Problem 5: Code Learning Assistant** — its **purpose**, **features**, **target users**, **technical design**, and how it fits into modern education.
-
----
 
 ## 📘 **Project Title**: Code Learning Assistant
 
